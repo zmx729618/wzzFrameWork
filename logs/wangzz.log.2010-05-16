@@ -1,0 +1,16 @@
+2010-05-16 20:31:19,937 [main] TRACE [org.hibernate.type.StringType] - binding '%aaa%' to parameter: 1
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning '4028824628911f240128911ff5670002' as column: id2_0_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning 'aaa' as column: id0_1_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning '4028824628911f240128911ff5950003' as column: id3_2_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning 'good' as column: descript2_2_0_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning 'aaa' as column: group5_2_0_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning 'beida' as column: name2_0_
+2010-05-16 20:31:20,031 [main] TRACE [org.hibernate.type.StringType] - returning '123' as column: tel2_0_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning 'aaa' as column: gdesc0_1_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning 'aaa' as column: name0_1_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning '123' as column: code3_2_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning 'beijing' as column: contury3_2_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning 'aaa' as column: descript4_3_2_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.IntegerType] - returning '22' as column: age3_2_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning '555' as column: name3_2_
+2010-05-16 20:31:20,046 [main] TRACE [org.hibernate.type.StringType] - returning '4028824628911f240128911ff5670002' as column: school7_3_2_

@@ -1,0 +1,7 @@
+2010-06-23 16:48:07,187 [main] TRACE [org.hibernate.type.StringType] - binding '%aaa%' to parameter: 1
+2010-06-23 16:48:53,906 [main] TRACE [org.hibernate.type.StringType] - binding '%aaa%' to parameter: 1
+2010-06-23 16:48:53,906 [main] TRACE [org.hibernate.type.StringType] - binding '%bbb%' to parameter: 2
+2010-06-23 17:32:04,593 [main] TRACE [org.hibernate.type.StringType] - binding '%aaa%' to parameter: 1
+2010-06-23 17:32:04,593 [main] TRACE [org.hibernate.type.StringType] - binding '%bbb%' to parameter: 2
+2010-06-23 18:01:41,093 [main] TRACE [org.hibernate.type.StringType] - binding '%aaa%' to parameter: 1
+2010-06-23 18:01:41,093 [main] TRACE [org.hibernate.type.StringType] - binding '%bbb%' to parameter: 2
